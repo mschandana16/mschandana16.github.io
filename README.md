@@ -17,11 +17,28 @@ World Affairs Council of Harrisburg, Pennslyvania, USA
 
 **Text-based Adventure Game**
 
-- Python: [Source Code](https://github.com/mschandana16/python-project)
+- Python
+- [Source Code](https://github.com/mschandana16/python-project)
+
+**Spell-Checker (based on DSA)**
+
+- C
+- [Source Code](https://github.com/mschandana16/Spell-Checker)
+
+
+**Ethos -a blog website**
+
+- MERN
+- [Source Code](https://github.com/mschandana16/ethos-the-blog)
 
 **Others**
 
-I am working on a spell checker for my DSA project and a blog website for the WT course.
+I'm actively contributing to open-source projects, and have contributed to the following so far:
+- GDSC repos
+- Appwrite
+- Illa-builder
+
+I'm also working on building an efficient clone of ChatGPT. 
 
 # Skills
 
@@ -29,6 +46,7 @@ I am working on a spell checker for my DSA project and a blog website for the WT
 - C
 - C++
 - GCP
+- MERN
 
 # Certifications/Courses
 
@@ -45,8 +63,10 @@ I am working on a spell checker for my DSA project and a blog website for the WT
 
 - GDSC (Cloud computing domain member)
 - ACM-W Club (Tech & Research Head)
+- AURA, the AIML Club of PES (Web dev domain member)
 - The Rotaract Club of PES (Co-director of Editorial Avenue)
 - The Research Et Al Club (Content team member)
+
 # Socials
 
 - GitHub: [GitHub Profile](https://github.com/mschandana16)
