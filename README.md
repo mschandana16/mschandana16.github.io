@@ -33,10 +33,11 @@ World Affairs Council of Harrisburg, Pennslyvania, USA
 
 **Others**
 
-I'm actively contributing to open-source projects, and have contributed to the following so far:
+I love contributing to open-source projects, and have contributed to the following so far:
 - GDSC repos
 - Appwrite
 - Illa-builder
+- Hacktoberfest
 
 I'm also working on building an efficient clone of ChatGPT. 
 
